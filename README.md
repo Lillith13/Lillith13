@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 Aspiring software engineer with expertise in Javascript, Python, CSS, HTML5, React, Redux, Node.js, Express.js, SQL, SQLite3, PostgreSQL, Git, and AWS, gained through rigorous training at App Academy. Leveraging customer service and sales experience, I bring a unique blend of skills, including training and mentoring. Excited to transition into software development, I am seeking opportunities to contribute my diverse skill set and passion for innovation to a dynamic team.
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/krystina-bell-30523aab)
+- :mailbox:How to reach me on [Linkedin](www.linkedin.com/in/krystina-bell-30523aab)
 
 
 ### :hammer_and_wrench: Languages and Tools :
